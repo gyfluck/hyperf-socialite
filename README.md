@@ -10,10 +10,10 @@
 ```shell
 
 # 安装
-composer require socialite/hyperf-socialite -vvv
+composer require gyfluck/hyperf-socialite -vvv
 
 # 创建配置文件
-php bin/hyperf.php vendor:publish socialite/hyperf-socialite
+php bin/hyperf.php vendor:publish gyfluck/hyperf-socialite
 
 ```
 
