@@ -37,7 +37,7 @@ return [
             'client_secret' => env('WEWORK_CLIENT_SECRET'),
             'agentid' => env('WEWORKQR_AGENT_ID'),
             'redirect' => env('WEWORKQR_REDIRECT_URI')
-        ],
+        ]
         */
     ],
 
